@@ -7,42 +7,13 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Wanted to store all my smaller Python projects into one repository so that it can be viewed by anyone that is interested. Feel free to check the ideas and suggest improvements. This repository is valid during all phases of my journey so it might contain some older code with worse styling. I am happy to improve it.
-
-
+Create a dashboard for managers of the (imaginary) marketing department to analyze conversions in an online store. The data you need is in the publicly available GA4 dataset on BigQuery.
 
 ### Built With
 
-[![Python][Python]][Python-img]
+[Tableau Public]
 
-## Roadmap
-
-- [x] ConwayGameOfLife
-- [x] AmazonForestFire
-- [x] CarRental
-- [x] IntelligentAIChatbot
-- [x] KeyTermsExtraction
-- [x] LibraryManagementSystem
-- [x] MemoryUsage
-- [x] TextGenerator
-- [x] TicTacToe
-- [x] bodyPerformanceData
-- [x] chat_room_socket
-- [x] income_classification
-- [x] playConnect4
-- [x] project_biai
-- [x] tournament_game_generator
-- [x] vehicle_detector
-- [ ] Typing Speed Checker
-- [ ] Self-Driving AI Car Simulation
-- [ ] Sorting Visualizer
-- [ ] Path Finding Visualizer
-
-See the [open issues](https://github.com/KorwinBieniek/PythonProjects/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+[DBeaver]
 
 ## Contributing
 
@@ -57,11 +28,9 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/PythonProjects`)
 5. Open a Pull Request
 
-
-
 ## Contact
 
-Korwin Bieniek - korwinbieniek@gmail.com
+Bartosz Kawczynski - bk@asterit.pl
 
 Project Link: [https://github.com/KorwinBieniek/PythonProjects](https://github.com/KorwinBieniek/PythonProjects)
 
@@ -78,5 +47,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bartosz-kawczy%C5%84ski-667770252/
 <!-- [product-screenshot]: images/screenshot.png -->
-[Python]: https://www.python.org/static/img/python-logo.png
-[Python-img]: https://www.python.org/
+[DBeaver]: https://dbeaver.io/
+[DBeaver-img]: https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg/
+[Tableau Public]: https://public.tableau.com/app/profile/bartosz.kawczy.ski/viz/1_PGoIT_BK02_05_2024/Dashboard?publish=yes/
