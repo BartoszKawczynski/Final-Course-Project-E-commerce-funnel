@@ -32,8 +32,7 @@ Don't forget to give the project a star! Thanks again!
 
 Bartosz Kawczynski - bk@asterit.pl
 
-Project Link: [https://github.com/KorwinBieniek/PythonProjects](https://github.com/KorwinBieniek/PythonProjects)
-
+Project Link: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/tree/main/
 
 ## Acknowledgments
 
