@@ -16,6 +16,9 @@ Create a dashboard for managers of the (imaginary) marketing department to analy
 
 [![BigQuery-img](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/5f51b514-1515-4d37-b2a3-a5f610f4f35d)][BigQuery]
 
+[![Tableau-img](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/b018d77a-ca62-4156-8c38-7f2f479b4381)][Tableau Public]
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -61,6 +64,6 @@ other coursemates for their help and perseverance in achieving their goals - CON
 [Tableau Public]: https://public.tableau.com/app/profile/bartosz.kawczy.ski/viz/1_PGoIT_BK02_05_2024/Dashboard?publish=yes/
 [Project Link]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/tree/main/
 [GoIT Polska!]: https://goit.global/pl/
-[Tableau_img]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/c9231ccd-45fa-469f-be3b-e73b51c887a0](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/52afa679-08cf-40d2-a494-9f7e9c4095c4
+[Tableau-img]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/c9231ccd-45fa-469f-be3b-e73b51c887a0](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/52afa679-08cf-40d2-a494-9f7e9c4095c4
 [BigQuery]: https://console.cloud.google.com/bigquery?sq=471701329260:1965c012f3a04b96bb8a803a9d81de72
 
