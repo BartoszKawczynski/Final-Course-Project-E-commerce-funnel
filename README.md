@@ -14,8 +14,7 @@ Create a dashboard for managers of the (imaginary) marketing department to analy
 
 [![Tableau Public-img](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/9a26557b-c8be-44ba-b822-0f11047860aa)][Tableau Public]
 
-[![DBeaver-img](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/c29b9ca5-5c3e-4488-9360-669ccf7650a3)][DBeaver]
-
+[![BigQuery-img](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/5f51b514-1515-4d37-b2a3-a5f610f4f35d)][BigQuery]
 
 ## Contributing
 
@@ -63,3 +62,5 @@ other coursemates for their help and perseverance in achieving their goals - CON
 [Project Link]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/tree/main/
 [GoIT Polska!]: https://goit.global/pl/
 [Tableau_img]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/c9231ccd-45fa-469f-be3b-e73b51c887a0](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/52afa679-08cf-40d2-a494-9f7e9c4095c4
+[BigQuery]: https://console.cloud.google.com/bigquery?sq=471701329260:1965c012f3a04b96bb8a803a9d81de72
+
