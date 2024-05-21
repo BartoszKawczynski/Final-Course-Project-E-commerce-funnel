@@ -12,11 +12,9 @@ Create a dashboard for managers of the (imaginary) marketing department to analy
 
 ### Built With
 
-[Tableau Public]
+[![Tableau Public-img](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/9a26557b-c8be-44ba-b822-0f11047860aa)][Tableau Public]
 
-[![Tableau Public][Tableau Public]][Tableau Public-img]
-
-[DBeaver]
+[![DBeaver-img](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/c29b9ca5-5c3e-4488-9360-669ccf7650a3)][DBeaver]
 
 
 ## Contributing
@@ -64,4 +62,4 @@ other coursemates for their help and perseverance in achieving their goals - CON
 [Tableau Public]: https://public.tableau.com/app/profile/bartosz.kawczy.ski/viz/1_PGoIT_BK02_05_2024/Dashboard?publish=yes/
 [Project Link]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/tree/main/
 [GoIT Polska!]: https://goit.global/pl/
-[Tableau Public-img]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/c9231ccd-45fa-469f-be3b-e73b51c887a0
+[Tableau_img]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/c9231ccd-45fa-469f-be3b-e73b51c887a0](https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/52afa679-08cf-40d2-a494-9f7e9c4095c4
