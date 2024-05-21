@@ -9,37 +9,50 @@
 
 Create a dashboard for managers of the (imaginary) marketing department to analyze conversions in an online store. The data you need is in the publicly available GA4 dataset on BigQuery.
 
+
 ### Built With
 
 [Tableau Public]
 
+[![Tableau Public][Tableau Public]][Tableau Public-img]
+
 [DBeaver]
+
 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/PythonProjects`)
-3. Commit your Changes (`git commit -m 'Add some PythonProjects'`)
-4. Push to the Branch (`git push origin feature/PythonProjects`)
-5. Open a Pull Request
+Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Bartosz Kawczynski - bk@asterit.pl
+Bartosz Kawczynski - bk@asterit.pl, contact@asterit.pl
 
-Project Link: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/tree/main/
+[Project Link]
+
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+All thanks to:
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
+[GoIT Polska!]:
+Aleksandra Masica,
+Korwin Bieniek,
+Kamil Sandak,
+Bartosz Urban,
+Wojciech Kochaniak,
+Jakub Jędrzejczak,
+Patryk Walczyński,
+Hanna Yankina,
+Anton Chornyi,
+Aldona Jowsa
+
+Korwin Bieniek for a great recommendation!
+
+other coursemates for their help and perseverance in achieving their goals - CONGRATULATIONS!!!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -49,3 +62,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [DBeaver]: https://dbeaver.io/
 [DBeaver-img]: https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg/
 [Tableau Public]: https://public.tableau.com/app/profile/bartosz.kawczy.ski/viz/1_PGoIT_BK02_05_2024/Dashboard?publish=yes/
+[Project Link]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/tree/main/
+[GoIT Polska!]: https://goit.global/pl/
+[Tableau Public-img]: https://github.com/BartoszKawczynski/Final-Course-Project-E-commerce-funnel/assets/162443808/c9231ccd-45fa-469f-be3b-e73b51c887a0
